@@ -1,0 +1,15 @@
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\bin\Debug\PolatOtoGaleri.exe.config
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\bin\Debug\PolatOtoGaleri.exe
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\bin\Debug\PolatOtoGaleri.pdb
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.csproj.AssemblyReference.cache
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.Form1.resources
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.Properties.Resources.resources
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.csproj.GenerateResource.cache
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.csproj.CoreCompileInputs.cache
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.exe
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.pdb
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.FormSatisKaydiGoruntule.resources
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.FormAracSat.resources
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.FormAracKaydıEkle.resources
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.FormGiris.resources
+C:\Users\aaaa\Desktop\PolatOtoGaleri\PolatOtoGaleri\obj\Debug\PolatOtoGaleri.FormKayitOl.resources
